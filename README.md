@@ -1,6 +1,6 @@
 # Portfolio
 
-This folder contains a selection of my projects. This is a more curated list of the projects on my github making some adjustments and fixing some documentation. Since some of the projects (especially for the projects that are based on course projects) they have specs that live outside of the projects themselves and are sometimes mostly for learning purposes, I have added some basic READMEs to make more clear what the intent of them is. For transparency I wanted to note that I have used the help of AI to make the process of creating the READMEs more quickly.
+This folder contains a selection of my projects. This is a more curated list of the projects on my github making some adjustments and fixing some documentation. I keep the repository on my separate personal github private, so I created this folder to put together some highlights from my recent projects. Since some of the projects (especially for the projects that are based on course projects) they have specs that live outside of the projects themselves and are sometimes mostly for learning purposes, I have added some basic READMEs to make more clear what the intent of them is. For transparency I wanted to note that I have used the help of AI to make the process of creating the READMEs more quickly.
 
 This is a collection of projects from personal work and course workd from school.
 
