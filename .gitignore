@@ -1,0 +1,33 @@
+# Build artifacts
+*.o
+*.exe
+*.out
+*.gch
+*.dSYM
+*.stackdump
+a.out
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# Data / model artifacts (large files)
+*.pt
+*.pth
+*.ckpt
+fine_tuned_model/
+websites_data.csv
+website_embeddings.pt
+matt_levine_emails.mbox
+
+# OS / editor
+.DS_Store
+*.swp
+*.swo
+*~
+.vscode/
+.idea/

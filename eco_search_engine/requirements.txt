@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+flask
+flask-cors
+sentence-transformers
+torch
+transformers
+numpy
+scikit-learn
+pandas

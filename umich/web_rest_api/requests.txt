@@ -1,0 +1,29 @@
+GET /api/
+
+GET /api/queue/ HTTP/1.1
+Host: localhost
+Content-Type: application/json; charset=utf-8
+Content-Length: 0
+
+POST /api/queue/tail/ HTTP/1.1
+Host: localhost
+Content-Type: application/json; charset=utf-8
+Content-Length: 45
+
+{"name":"Alice","location":"Office Hours"}
+
+GET /api/queue/head/ HTTP/1.1
+Host: localhost
+Content-Type: application/json; charset=utf-8
+Content-Length: 0
+
+DELETE /api/queue/head/ HTTP/1.1
+Host: localhost
+Content-Type: application/json; charset=utf-8
+Content-Length: 0
+
+GET /api/queue/ HTTP/1.1
+Host: localhost
+Content-Type: application/json; charset=utf-8
+Content-Length: 0
+

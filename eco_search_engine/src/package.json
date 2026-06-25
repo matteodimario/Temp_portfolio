@@ -1,0 +1,17 @@
+{
+    "name": "ecosearch",
+    "version": "1.0.0",
+    "description": "AI-powered sustainable fashion search engine",
+    "main": "index.html",
+    "scripts": {
+      "start": "serve",
+      "build": "echo This is a static site"
+    },
+    "dependencies": {
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0"
+    },
+    "devDependencies": {
+      "serve": "^14.2.1"
+    }
+  }
